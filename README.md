@@ -2,7 +2,8 @@
 
 A classic Ping Pong game built using Python's `Tkinter` module. Engage in a thrilling match against an AI opponent, and aim to keep the ball from getting past your racket!
 
-![Ping Pong Game Screenshot](link-to-your-screenshot-if-you-have-one.png)
+<img width="700" alt="Screenshot 2023-08-14 at 5 37 58 AM" src="https://github.com/DhruvShukla01/myproject-PingPong-python/assets/135282874/d6244569-b3b0-49ca-89c2-6f2ca113a3a3">
+
 
 ## Features 🌟
 
